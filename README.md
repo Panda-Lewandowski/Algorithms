@@ -36,6 +36,16 @@
     </ul>
 </ul>
 
+<h3>Numerical algorithms</h3>
+<hr align="left" width="800" size="0.1">
+
+<h3>Cryptography</h3>
+<hr align="left" width="800" size="0.1">
+
+<h3>Computer graphics</h3>
+<hr align="left" width="800" size="0.1">
+
+<br>
 <h3> 	Materials used </h3>
 <ul><li> Article <a href="https://proglib.io/p/required-programmer-algorithms/"> in Russian</a> and <a href="https://www.quora.com/What-algorithms-should-I-know-to-become-a-good-programmer/answer/Ashish-Kedia?ref=fb_page"> in English</a>
 <li> <i>Wiki:</i><a href="https://en.wikipedia.org/wiki/List_of_algorithms"> List of algorithms</a> and <a href="https://en.wikipedia.org/wiki/List_of_data_structures"> List of data structures </a></ul>
