@@ -111,7 +111,7 @@
 <h2>Computer graphics</h2>
 <ul>
 <li><a href="https://github.com/Panda-Lewandowski/Computer-graphics/blob/master/lab2/lab2.py">Picture Modifications(rotate, zoom, transfer)<a>
-<li><a href="https://github.com/Panda-Lewandowski/Computer-graphics/blob/master/lab3/lab3.py">Line Drawing
+<li><a href="https://github.com/Panda-Lewandowski/Computer-graphics/blob/master/lab3/lab3.py">Line Drawing</a>
     <ul>
     <li>Bresenham's line algorithm
         <ul>
