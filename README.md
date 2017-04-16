@@ -1,8 +1,7 @@
-# Algorithms
+<h1>Algorithms</h1>
 <h4> Here is a custom implementation of many algorithms. Edits and improvements are welcomed. Below is a list for a quick transition.<h4>
 
-<h3>Sorting algorithms</h3>
-<hr align="left" width="800" size="0.1">
+<h2>Sorting algorithms</h2>
 <ul>
 <li><i>Exchange Sorts</i>
     <ul>
@@ -36,8 +35,7 @@
     </ul>
 </ul>
 
-<h3>Numerical algorithms</h3>
-<hr align="left" width="800" size="0.1">
+<h2>Numerical algorithms</h2>
 <ul>
 <li><i><a href="https://github.com/Panda-Lewandowski/Programming-in-Python/blob/master/Numerical%20analysis/Finding%20roots.py">Root finding</a></i>
     <ul>
@@ -78,12 +76,78 @@
     <li><i>Differentiation</i>
 </ul>
 
-<h3>Cryptography</h3>
+<h2>Cryptography</h2>
+<p>(presented in <a href="https://github.com/Panda-Lewandowski/CryptoTools">this repository</a>)
+<ul>
+<li><i>Asymmetric (public key) encryption</i>
+    <ul>
+    <li>DSA
+    <li>RSA
+    <li>ElGamal
+    </ul>
+<li><i>Cryptographic hash functions</i>
+    <ul>
+    <li>HMAC
+    <li>MD5
+    <li>SHA-2
+    </ul>
+<li><i>Cryptographically secure pseudo-random number generators</i>
+    <ul>
+    <li>Fortuna
+    <li>Yarrow algorithm
+    </ul>
+<li><i>Key exchange</i>
+    <ul>
+    <li>Diffie–Hellman key exchange
+    </ul>
+<li><i>Key derivation function</i>
+<li><i>Symmetric (secret key) encryption</i>
+    <ul>
+    <li>Advanced Encryption Standard (AES)
+    <li>Data Encryption Standard (DES)
+    </ul>
+</ul>
+
+<h2>Computer graphics</h2>
+<ul>
+<li><a href="https://github.com/Panda-Lewandowski/Computer-graphics/blob/master/lab2/lab2.py">Picture Modifications(rotate, zoom, transfer)<a>
+<li><a href="https://github.com/Panda-Lewandowski/Computer-graphics/blob/master/lab3/lab3.py">Line Drawing
+    <ul>
+    <li>Bresenham's line algorithm
+        <ul>
+        <li>Without smoothing
+        <ul>
+        <li>With integers
+        <li>With floats/doubles
+        </ul>
+        <li>With smoothing
+        </ul>
+    <li>DDA line algorithm
+    </ul>
+<li><a href="https://github.com/Panda-Lewandowski/Computer-graphics/blob/master/lab4/lab4.py">Circle and Ellips Drawing</a>
+    <ul>
+    <li>According to the equation
+        <ul>
+        <li>Сanonical equation
+        <li>Parametric equation
+        </ul>
+    <li>Bresenham's algorithm
+    <li>Midpoint circle/ellips algorithm
+    </ul>
+<li>Filling Algorithms
+    <ul>
+    <li>The algorithm with the sorted list of edges
+    <li><a href="https://github.com/Panda-Lewandowski/Computer-graphics/blob/master/lab5/lab5.py">The algorithm in the ribs</a>
+    <li>The algorithm with partition
+    <li>The algorithm with the flag
+    </ul>
+<li>Clipping
+</ul>
+
 <hr align="left" width="800" size="0.1">
 
-<h3>Computer graphics</h3>
-<hr align="left" width="800" size="0.1">
 
+<h1>Structures</h1>
 <br>
 <h3> 	Materials used </h3>
 <ul><li> Article <a href="https://proglib.io/p/required-programmer-algorithms/"> in Russian</a> and <a href="https://www.quora.com/What-algorithms-should-I-know-to-become-a-good-programmer/answer/Ashish-Kedia?ref=fb_page"> in English</a>
