@@ -144,6 +144,68 @@
 <li>Clipping
 </ul>
 
+<h2>Number theoretic algorithms</h2>
+<ul>
+<li>Multiplication algorithms
+    <ul>
+    <li>Karatsuba algorithm
+    <li>Schönhage–Strassen algorithm
+    <li>Fürer’s algorithm
+    </ul>
+<li>Algorithms of modular arithmetic
+    <ul>
+    <li>Montgomery modular multiplication
+    <li>Algorithm for finding the order of an element
+    </ul>
+<li>Exponentiation by squaring
+<li>Discrete logarithm
+    <ul>
+    <li>Baby-step giant-step
+    </ul>
+<li>Algorithms for finding the greatest common divisor (GCD) of two numbers
+    <ul>
+    <li>Euclid's algorithm
+    <li>Extended Euclidean algorithm
+    <li>Binary GCD algorithm
+    </ul>
+<li>Prime number
+    <ul>
+    <li>Finding prime numbers
+        <ul>
+        <li>Trial division
+        <li>Sieve of Eratosthenes
+        <li>Sieve of Atkin
+        </ul>
+    <li>Primality tests
+        <ul>
+        <li>Deterministic tests of primality
+            <ul>
+            <li>Fermat primality test
+            <li>AKS primality test
+            <li>Lucas primality test
+            </ul>
+         <li>Probabilistic tests of primality
+         <ul>
+         <li>Miller–Rabin primality test
+         </ul>
+         </ul>
+    </ul>
+<li>Integer factorization   
+    <ul>
+    <li>Algorithms with exponential complexity
+        <ul>
+        <li>Trial division    
+        <li>Fermat's factorization method
+        <li>
+        </ul>
+    <li>Algorithms with subexponential complexity
+    <ul>
+    <li>Quadratic sieve
+    <li>...
+    </ul>
+    </ul>
+</ul>
+
 <hr align="left" width="800" size="0.1">
 
 
