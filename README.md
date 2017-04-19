@@ -204,6 +204,10 @@
     <li>...
     </ul>
     </ul>
+<li>Multiplying matrices
+    <ul>
+    <li>Strassen algorithm
+    </ul>
 </ul>
 
 <hr align="left" width="800" size="0.1">
