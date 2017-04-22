@@ -5,13 +5,13 @@
 <ul>
 <li><i>Exchange Sorts</i>
     <ul>
-    <li><a href="/Sorting/bubble%20sort.py">Bubble sort</a>
-    <li><a href="https://github.com/Panda-Lewandowski/Programming-in-Python/blob/master/Sorting/cocktail%20sort.py">Cocktail shaker sort or bidirectional bubble sort</a>
+    <li><a href="Sorting%20algorithms/bubble%20sort.py">Bubble sort</a>
+    <li><a href="Sorting%20algorithms/cocktail%20sort.py">Cocktail shaker sort or bidirectional bubble sort</a>
     <li>Comb sort
     <li>Quicksort
         <ul>
-        <li><a href="https://github.com/Panda-Lewandowski/Programming-in-Python/blob/master/Sorting/iterative%20qsort.py">Iterative</a>
-        <li><a href="https://github.com/Panda-Lewandowski/Programming-in-Python/blob/master/Sorting/quick%20sort.py">Recursion</a>
+        <li><a href="Sorting%20algorithms/iterative%20qsort.py">Iterative</a>
+        <li><a href="Sorting%20algorithms/quick%20sort.py">Recursion</a>
         </ul>
     </ul>
 <li><i>Hybrid</i>
@@ -20,9 +20,9 @@
     </ul>
 <li><i>Insertion sorts</i>
     <ul>
-    <li><a href="https://github.com/Panda-Lewandowski/Programming-in-Python/blob/master/Sorting/insertion%20sort.py">Insertion sort</a>
-    <li><a href="https://github.com/Panda-Lewandowski/Programming-in-Python/blob/master/Sorting/shell%20sort.py">Shell sort</a>
-    <li><a href="https://github.com/Panda-Lewandowski/Programming-in-Python/blob/master/Sorting/bin_insertion%20sort.py">Binary insertion sort</a>
+    <li><a href="Sorting%20algorithms/insertion%20sort.py">Insertion sort</a>
+    <li><a href="Sorting%20algorithms/shell%20sort.py">Shell sort</a>
+    <li><a href="Sorting%20algorithms/bin_insertion%20sort.py">Binary insertion sort</a>
     </ul>
     <li> <i>Merge sorts</i>
     <ul>
@@ -37,7 +37,7 @@
 
 <h2>Numerical algorithms</h2>
 <ul>
-<li><i><a href="https://github.com/Panda-Lewandowski/Algorithms/tree/master/Numerical%20algorithms/Root%20finding">Root finding</a></i>
+<li><i><a href="Numerical%20algorithms/Root%20finding">Root finding</a></i>
     <ul>
     <li><a>Bisection method</a>
     <li><a>Newton's method</a>
