@@ -5,7 +5,7 @@
 <ul>
 <li><i>Exchange Sorts</i>
     <ul>
-    <li><a href="https://github.com/Panda-Lewandowski/Programming-in-Python/blob/master/Sorting/bubble%20sort.py">Bubble sort</a>
+    <li><a href="/Sorting/bubble%20sort.py">Bubble sort</a>
     <li><a href="https://github.com/Panda-Lewandowski/Programming-in-Python/blob/master/Sorting/cocktail%20sort.py">Cocktail shaker sort or bidirectional bubble sort</a>
     <li>Comb sort
     <li>Quicksort
