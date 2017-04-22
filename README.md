@@ -31,7 +31,7 @@
 <li><i>Selection sorts</i>
     <ul>
     <li>Heapsort
-    <li>Selection sort
+    <li><a href="Sorting%20algorithms/selection%20sort.py">Selection sort</a>
     </ul>
 </ul>
 
