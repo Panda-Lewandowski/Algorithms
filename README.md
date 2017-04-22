@@ -37,19 +37,19 @@
 
 <h2>Numerical algorithms</h2>
 <ul>
-<li><i><a href="https://github.com/Panda-Lewandowski/Programming-in-Python/blob/master/Numerical%20analysis/Finding%20roots.py">Root finding</a></i>
+<li><i><a href="https://github.com/Panda-Lewandowski/Algorithms/tree/master/Numerical%20algorithms/Root%20finding">Root finding</a></i>
     <ul>
-    <li><a href="https://github.com/Panda-Lewandowski/Programming-in-Python/blob/master/Numerical%20analysis/Bisection%20method.py">Bisection method</a>
-    <li><a href="https://github.com/Panda-Lewandowski/Programming-in-Python/blob/master/Numerical%20analysis/Newton's%20method.py">Newton's method</a>
+    <li><a>Bisection method</a>
+    <li><a>Newton's method</a>
     <ul>
-    <li><a href="https://github.com/Panda-Lewandowski/Programming-in-Python/blob/master/Numerical%20analysis/Simplified%20Newton's%20method.py">Simplified Newton's method</a>
+    <li><a>Simplified Newton's method</a>
     </ul>
-    <li><a href="https://github.com/Panda-Lewandowski/Programming-in-Python/blob/master/Numerical%20analysis/Secant%20method.py">Secant method</a>
-    <li><a href="https://github.com/Panda-Lewandowski/Programming-in-Python/blob/master/Numerical%20analysis/%D0%A1hords%20method.py">Сhords method</a>
-    <li><a href="https://github.com/Panda-Lewandowski/Programming-in-Python/blob/master/Numerical%20analysis/%D0%A1ombined%20method.py">Сombined method</a>
-    <li><a href="https://github.com/Panda-Lewandowski/Programming-in-Python/blob/master/Numerical%20analysis/Iterative%20method.py">Iterative method</a>
+    <li><a>Secant method</a>
+    <li><a>Сhords method</a>
+    <li><a>Сombined method</a>
+    <li><a>Iterative method</a>
     <ul>
-    <li><a href="https://github.com/Panda-Lewandowski/Programming-in-Python/blob/master/Numerical%20analysis/Fixed-point%20iteration%20method.py">Fixed-point iteration method</a>
+    <li><a>Fixed-point iteration method</a>
     </ul>
     </ul>
     <li><i>Solving systems of linear equations</i>
@@ -64,14 +64,15 @@
     <li><a href="https://github.com/Panda-Lewandowski/Computational-algorithms/blob/master/lab2.2.py">Inverse interpolation</a>
     <li><a href="https://github.com/Panda-Lewandowski/Computational-algorithms/blob/master/lab2.2.py">Interpolation with a Newton polynomial</a>
     </ul>
-    <li><a href="https://github.com/Panda-Lewandowski/Programming-in-Python/blob/master/Numerical%20analysis/all_integrals.py"><i>Calculation of integrals</i></a>
+    <li><a href="https://github.com/Panda-Lewandowski/Algorithms/tree/master/Numerical%20algorithms/Integrals"><i>Calculation of integrals</i></a>
     <ul>
-    <li><a href="https://github.com/Panda-Lewandowski/Algorithms/blob/master/Left_rectangles.py">Left rectangles method</a>
-    <li><a href="https://github.com/Panda-Lewandowski/Algorithms/blob/master/Right_rectangles.py">Right rectangles method</a>
-    <li><a href="https://github.com/Panda-Lewandowski/Algorithms/blob/master/Middle_rectangles.py">Middle rectangles method</a>
-    <li><a href="https://github.com/Panda-Lewandowski/Algorithms/blob/master/Simpson_method.py">Simpson method</a>
-    <li><a href="https://github.com/Panda-Lewandowski/Algorithms/blob/master/Simpson38_method.py">3/8 method</a>
-    <li><a href="https://github.com/Panda-Lewandowski/Algorithms/blob/master/Trapezium_method.py">Trapezium method</a>
+    <li><a>Left rectangles method</a>
+    <li><a>Right rectangles method</a>
+    <li><a>Middle rectangles method</a>
+    <li><a>Simpson method</a>
+    <li><a>3/8 method</a>
+    <li><a>Trapezium method</a>
+    <li><a href="https://github.com/Panda-Lewandowski/Computational-algorithms/tree/master/lab5">Gauss's method </a>
     </ul>
     <li><i>Differentiation</i>
 </ul>
