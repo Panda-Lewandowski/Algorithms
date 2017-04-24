@@ -215,6 +215,19 @@
 
 
 <h1>Structures</h1>
+
+<h2>Primitive types</h2>
+<ul>
+<li>Boolean
+<li>Character
+<li>Floating-point
+<li>Double
+<li>Integer
+<li>String
+<li>Reference (also called a pointer or handle)
+<li>Enumerated type
+</ul>
+<h2></h2>
 <br>
 <h3> 	Materials used </h3>
 <ul><li> Article <a href="https://proglib.io/p/required-programmer-algorithms/"> in Russian</a> and <a href="https://www.quora.com/What-algorithms-should-I-know-to-become-a-good-programmer/answer/Ashish-Kedia?ref=fb_page"> in English</a>
