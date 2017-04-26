@@ -1,7 +1,7 @@
 <h1>Algorithms</h1>
 <h4> Here is a custom implementation of many algorithms. Edits and improvements are welcomed. Below is a list for a quick transition.<h4>
 
-<h2>Sorting algorithms</h2>
+<h2>Sorting algorithms </h2><i><b>(need to update)</b></i>
 <ul>
 <li><i>Exchange Sorts</i>
     <ul>
@@ -37,19 +37,19 @@
 
 <h2>Numerical algorithms</h2>
 <ul>
-<li><i><a href="Numerical%20algorithms/Root%20finding">Root finding</a></i>
+<li><i>Root finding</i>  <i><b>(need to update)</b></i>
     <ul>
-    <li><a>Bisection method</a>
-    <li><a>Newton's method</a>
+    <li><a href="Numerical%20algorithms/Root%20finding/Bisection%20method.py">Bisection method</a>
+    <li><a href="Numerical%20algorithms/Root%20finding/Newton's%20method.py">Newton's method</a>
     <ul>
-    <li><a>Simplified Newton's method</a>
+    <li><a href="Numerical%20algorithms/Root%20finding/Simplified%20Newton's%20method.py">Simplified Newton's method</a>
     </ul>
-    <li><a>Secant method</a>
-    <li><a>Сhords method</a>
-    <li><a>Сombined method</a>
-    <li><a>Iterative method</a>
+    <li><a href="Numerical%20algorithms/Root%20finding/Secant%20method.py">Secant method</a>
+    <li><a href="Numerical%20algorithms/Root%20finding/Сhords%20method.py">Сhords method</a>
+    <li><a href="Numerical%20algorithms/Root%20finding/Сombined%20method.py">Сombined method</a>
+    <li><a href="Numerical%20algorithms/Root%20finding/Iterative%20method.py">Iterative method</a>
     <ul>
-    <li><a>Fixed-point iteration method</a>
+    <li><a href="Numerical%20algorithms/Root%20finding/Fixed-point%20iteration%20method.py">Fixed-point iteration method</a>
     </ul>
     </ul>
     <li><i>Solving systems of linear equations</i>
@@ -64,17 +64,17 @@
     <li><a href="https://github.com/Panda-Lewandowski/Computational-algorithms/blob/master/lab2.2.py">Inverse interpolation</a>
     <li><a href="https://github.com/Panda-Lewandowski/Computational-algorithms/blob/master/lab2.2.py">Interpolation with a Newton polynomial</a>
     </ul>
-    <li><a href="https://github.com/Panda-Lewandowski/Algorithms/tree/master/Numerical%20algorithms/Integrals"><i>Calculation of integrals</i></a>
+    <li><i>Calculation of integrals</i>
     <ul>
-    <li><a>Left rectangles method</a>
-    <li><a>Right rectangles method</a>
-    <li><a>Middle rectangles method</a>
-    <li><a>Simpson method</a>
-    <li><a>3/8 method</a>
-    <li><a>Trapezium method</a>
+    <li><a href="Numerical%20algorithms/Integrals/Left_rectangles.py">Left rectangles method</a>
+    <li><a href="Numerical%20algorithms/Integrals/Right_rectangles.py">Right rectangles method</a>
+    <li><a href="Numerical%20algorithms/Integrals/Middle_rectangles.py">Middle rectangles method</a>
+    <li><a href="Numerical%20algorithms/Integrals/Simpson_method.py">Simpson method</a>
+    <li><a href="Numerical%20algorithms/Integrals/Simpson38_method.py">3/8 method</a>
+    <li><a href="Numerical%20algorithms/Integrals/Trapezium_method.py">Trapezium method</a>
     <li><a href="https://github.com/Panda-Lewandowski/Computational-algorithms/tree/master/lab5">Gauss's method </a>
     </ul>
-    <li><i>Differentiation</i>
+    <li><i>Differentiation</i> 
 </ul>
 
 <h2>Cryptography</h2>
