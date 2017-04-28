@@ -1,7 +1,7 @@
 <h1>Algorithms</h1>
 <h4> Here is a custom implementation of many algorithms. Edits and improvements are welcomed. Below is a list for a quick transition.<h4>
 
-<h2>Sorting algorithms </h2><i><b>(need to update)</b></i>
+<h2>Sorting algorithms ♻️</h2><i><b></b></i>
 <ul>
 <li><i>Exchange Sorts</i>
     <ul>
@@ -37,7 +37,7 @@
 
 <h2>Numerical algorithms</h2>
 <ul>
-<li><i>Root finding</i>  <i><b>(need to update)</b></i>
+<li><i>Root finding♻️</i>  <i><b></b></i>
     <ul>
     <li><a href="Numerical%20algorithms/Root%20finding/Bisection%20method.py">Bisection method</a>
     <li><a href="Numerical%20algorithms/Root%20finding/Newton's%20method.py">Newton's method</a>
@@ -236,3 +236,11 @@
 <hr align="left" width="800" size="2">
 
 <div><i>COMMENT:</i> <p>This list can use links to other my projects where these algorithms were used. There may be errors and shortcomings. These algorithms will be divided into separate modules and improved in the last turn due to lack of time.</p></div>
+
+#### <i>Legend:</i>
+<ul>
+<li>✅ - ОК
+<li>⚠️ - problem
+<li>🆘 - need help
+<li>♻️ - need update
+</ul>
