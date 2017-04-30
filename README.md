@@ -52,12 +52,12 @@
     <li><a href="Numerical%20algorithms/Root%20finding/Fixed-point%20iteration%20method.py">Fixed-point iteration method</a>
     </ul>
     </ul>
-    <li><i>Solving systems of linear equations</i>
+    <li><i>Solving systems of linear equations🌀</i>
     <ul>
     <li><a href="https://github.com/Panda-Lewandowski/Computational-algorithms/blob/master/lab3/gauss_seidel.py">Gauss–Seidel method</a>
     <li><a href="https://github.com/Panda-Lewandowski/Computational-algorithms/blob/master/lab3/lin_sys.py">Gaussian elimination</a>
     </ul>
-    <li><i>Interpolation and extrapolation</i>
+    <li><i>Interpolation and extrapolation🌀</i>
     <ul>
     <li><a href="https://github.com/Panda-Lewandowski/Computational-algorithms/blob/master/lab2.4.py">Spline interpolation</a>
     <li><a href="https://github.com/Panda-Lewandowski/Computational-algorithms/blob/master/lab2.3.py">Bilinear interpolation</a>
@@ -72,9 +72,9 @@
     <li><a href="Numerical%20algorithms/Integrals/Simpson_method.py">Simpson method</a>
     <li><a href="Numerical%20algorithms/Integrals/Simpson38_method.py">3/8 method</a>
     <li><a href="Numerical%20algorithms/Integrals/Trapezium_method.py">Trapezium method</a>
-    <li><a href="https://github.com/Panda-Lewandowski/Computational-algorithms/tree/master/lab5">Gauss's method </a>
+    <li><a href="https://github.com/Panda-Lewandowski/Computational-algorithms/tree/master/lab5">Gauss's method 🌀</a>
     </ul>
-    <li><i>Differentiation</i> 
+    <li><i>Differentiation🌀</i> 
 </ul>
 
 <h2>Cryptography</h2>
@@ -111,8 +111,8 @@
 
 <h2>Computer graphics</h2>
 <ul>
-<li><a href="https://github.com/Panda-Lewandowski/Computer-graphics/blob/master/lab2/lab2.py">Picture Modifications(rotate, zoom, transfer)<a>
-<li><a href="https://github.com/Panda-Lewandowski/Computer-graphics/blob/master/lab3/lab3.py">Line Drawing</a>
+<li><a href="https://github.com/Panda-Lewandowski/Computer-graphics/blob/master/lab2/lab2.py">Picture Modifications(rotate, zoom, transfer)🌀<a>
+<li><a href="https://github.com/Panda-Lewandowski/Computer-graphics/blob/master/lab3/lab3.py">Line Drawing🌀</a>
     <ul>
     <li>Bresenham's line algorithm
         <ul>
@@ -125,7 +125,7 @@
         </ul>
     <li>DDA line algorithm
     </ul>
-<li><a href="https://github.com/Panda-Lewandowski/Computer-graphics/blob/master/lab4/lab4.py">Circle and Ellips Drawing</a>
+<li><a href="https://github.com/Panda-Lewandowski/Computer-graphics/blob/master/lab4/lab4.py">Circle and Ellips Drawing🌀</a>
     <ul>
     <li>According to the equation
         <ul>
@@ -135,7 +135,7 @@
     <li>Bresenham's algorithm
     <li>Midpoint circle/ellips algorithm
     </ul>
-<li>Filling Algorithms
+<li>Filling Algorithms🌀
     <ul>
     <li>The algorithm with the sorted list of edges
     <li><a href="https://github.com/Panda-Lewandowski/Computer-graphics/blob/master/lab5/lab5.py">The algorithm in the ribs</a>
@@ -248,4 +248,5 @@
 <li>⚠️ - problem
 <li>🆘 - need help
 <li>♻️ - need update
+<li>🌀 - in process
 </ul>
