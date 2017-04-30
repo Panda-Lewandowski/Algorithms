@@ -211,6 +211,11 @@
     </ul>
 </ul>
 
+<h2>Machine Learning </h2>
+<ul>
+<li>Списочек для Софи
+</ul>
+
 <hr align="left" width="800" size="0.1">
 
 
