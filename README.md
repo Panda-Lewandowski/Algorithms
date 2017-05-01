@@ -112,18 +112,18 @@
 <h2>Computer graphics</h2>
 <ul>
 <li><a href="https://github.com/Panda-Lewandowski/Computer-graphics/blob/master/lab2/lab2.py">Picture Modifications(rotate, zoom, transfer)🌀<a>
-<li><a href="https://github.com/Panda-Lewandowski/Computer-graphics/blob/master/lab3/lab3.py">Line Drawing🌀</a>
+<li>Line Drawing
     <ul>
     <li>Bresenham's line algorithm
         <ul>
         <li>Without smoothing
         <ul>
-        <li>With integers
-        <li>With floats/doubles
+        <li><a href="Computer%20grathics/Line%20drawing/Bresenham_int.py">With integers</a>
+        <li><a href="Computer%20grathics/Line%20drawing/Bresenham_float.py">With floats/doubles</a>
         </ul>
-        <li>With smoothing
+        <li><a href="Computer%20grathics/Line%20drawing/Bresenham_smooth.py">With smoothing</a>
         </ul>
-    <li>DDA line algorithm
+        <li><a href="Computer%20grathics/Line%20drawing/DDA.py">DDA line algorithm♻️</a>
     </ul>
 <li><a href="https://github.com/Panda-Lewandowski/Computer-graphics/blob/master/lab4/lab4.py">Circle and Ellips Drawing🌀</a>
     <ul>
