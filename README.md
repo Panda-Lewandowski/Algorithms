@@ -52,10 +52,10 @@
     <li><a href="Numerical%20algorithms/Root%20finding/Fixed-point%20iteration%20method.py">Fixed-point iteration method</a>
     </ul>
     </ul>
-    <li><i>Solving systems of linear equations🌀</i>
+    <li><i>Solving systems of linear equations</i>
     <ul>
-    <li><a href="https://github.com/Panda-Lewandowski/Computational-algorithms/blob/master/lab3/gauss_seidel.py">Gauss–Seidel method</a>
-    <li><a href="https://github.com/Panda-Lewandowski/Computational-algorithms/blob/master/lab3/lin_sys.py">Gaussian elimination</a>
+    <li><a href="Numerical%20algorithms/Solving%20system/gauss_seidel.py">Gauss–Seidel method</a>
+    <li><a href="Numerical%20algorithms/Solving%20system/gauss.py">Gaussian elimination</a>
     </ul>
     <li><i>Interpolation and extrapolation🌀</i>
     <ul>
