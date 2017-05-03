@@ -143,6 +143,11 @@
     <li>The algorithm with the flag
     </ul>
 <li>Clipping
+    <ul>
+    <li>Cohen–Sutherland 
+    <li>Half-division algorithm
+    <li>Simple algorithm
+    </ul>
 </ul>
 
 <h2>Number theoretic algorithms</h2>
