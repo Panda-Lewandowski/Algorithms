@@ -1,5 +1,9 @@
 import random
-def sort (x):
+import time
+
+N = 10000
+
+def std_shell_sort(x):
     gap_prev = 1
     gap = 1
     sorte = True
@@ -10,33 +14,78 @@ def sort (x):
             gap = gap_prev
             break
         gap_prev = gap
-        gap = gap_prev*3+1
+        gap = gap_prev * 3 + 1
 
     while gap >= 1:
         i = gap
-        while i <= len(x)-1:
-            if x[i] < x[i-gap]:
-                x[i], x[i-gap] = x[i-gap], x[i]
+        while i <= len(x) - 1:
+            if x[i] < x[i - gap]:
+                x[i], x[i - gap] = x[i - gap], x[i]
                 sorte = True
-            i = i+1
+            i = i + 1
         if sorte == False:
             gap = (gap - 1) // 3
         sorte = False
-    return(x)
+    return x
 
 
-a = []
-b = []
-c = []
-for i in range(100):
-    a.append(i)
-    b.append(100-i)
-    c.append(random.randint(-100, 100))
+def opt_shell_sort(x):
+    inc = len(x) // 2
+    while inc:
+        for i, el in enumerate(x):
+            while i >= inc and x[i - inc] > el:
+                x[i] = x[i - inc]
+                i -= inc
+            x[i] = el
+        inc = 1 if inc == 2 else int(inc * 5.0 / 11)
+    return x
 
-a = sort(a)
-b = sort(b)
-c = sort(c)
 
-print(a)
-print(b)
-print(c)
+if __name__ == "__main__":
+    a = []
+    b = []
+    c = []
+    for i in range(N):
+        a.append(i)
+        b.append(N - i)
+        c.append(random.randint(-N, N))
+
+    print("NO OPTIMIZED std_shell_sort(x)")
+
+    print("\n...SORTING ARRAY...")
+    st = time.time()
+    na = std_shell_sort(a)
+    end = time.time()
+    print("\nTIME:", (end - st), "  sec")
+
+    print("\n...REVERSE ARRAY...")
+    st = time.time()
+    nb = std_shell_sort(b)
+    end = time.time()
+    print("\nTIME:", (end - st), "  sec")
+
+    print("\n...RANDOM ARRAY...")
+    st = time.time()
+    nc = std_shell_sort(c)
+    end = time.time()
+    print("\nTIME:", (end - st), "  sec")
+
+    print("\n\nOPTIMIZED opt_shell_sort(x)")
+
+    print("\n...SORTING ARRAY...")
+    st = time.time()
+    na = opt_shell_sort(a)
+    end = time.time()
+    print("\nTIME:", (end - st), "  sec")
+
+    print("\n...REVERSE ARRAY...")
+    st = time.time()
+    nb = opt_shell_sort(b)
+    end = time.time()
+    print("\nTIME:", (end - st), "  sec")
+
+    print("\n...RANDOM ARRAY...")
+    st = time.time()
+    nc = opt_shell_sort(c)
+    end = time.time()
+    print("\nTIME:", (end - st), "  sec")
