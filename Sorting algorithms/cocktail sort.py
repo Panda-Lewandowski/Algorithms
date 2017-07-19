@@ -51,7 +51,7 @@ if __name__ == "__main__":
         b.append(N-i)
         c.append(random.randint(-N, N))
 
-    print("NO OPTIMIZED std_bubble_sort(x)")
+    print("NO OPTIMIZED std_cocktail_sort(x)")
 
     print("\n...SORTING ARRAY...")
     st = time.time()
@@ -71,7 +71,7 @@ if __name__ == "__main__":
     end = time.time()
     print("\nTIME:", (end - st), "  sec")
 
-    print("\n\nOPTIMIZED opt_bubble_sort(x)")
+    print("\n\nOPTIMIZED opt_cocktail_sort(x)")
 
     print("\n...SORTING ARRAY...")
     st = time.time()
