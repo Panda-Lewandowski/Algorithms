@@ -16,22 +16,23 @@ def std_insection_sort (x):
     return x
 
 
-def opt_insection_sort(seq):
-    for i in range(1, len(seq)):
-        key = seq[i]
-        # invariant: ``seq[:i]`` is sorted
-        # find the least `low' such that ``seq[low]`` is not less then `key'.
-        #   Binary search in sorted sequence ``seq[low:up]``:
-        low, up = 0, i
-        while up > low:
-            middle = (low + up) // 2
-            if seq[middle] < key:
-                low = middle + 1
+def opt_insection_sort(x):
+    for i in range(1, len(x)):
+        key = x[i]
+        left = 0
+        right = i
+        while right > left:
+            mid = int(left+right) // 2
+            if x[mid] < key:
+                left = mid+1
             else:
-                up = middle
-        # insert key at position ``low``
-        seq[:] = seq[:low] + [key] + seq[low:i] + seq[i + 1:]
-    return seq
+                right = mid-1
+
+        for j in range(i-1, left-1, -1):
+            x[j+1] = x[j]
+        x[left] = key
+
+    return x
 
 
 if __name__ == "__main__":
