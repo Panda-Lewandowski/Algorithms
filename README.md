@@ -1,14 +1,14 @@
 <h1>Algorithms</h1>
 <h4> Here is a custom implementation of many algorithms. Edits and improvements are welcomed. Below is a list for a quick transition.<h4>
 
-<h2>Sorting algorithms ♻️</h2><i><b></b></i>
+<h2>Sorting algorithms</h2><i><b></b></i>
 <ul>
 <li><i>Exchange Sorts</i>
     <ul>
     <li><a href="Sorting%20algorithms/bubble%20sort.py">Bubble sort</a>
     <li><a href="Sorting%20algorithms/cocktail%20sort.py">Cocktail shaker sort or bidirectional bubble sort</a>
     <li>Comb sort
-    <li>Quicksort
+    <li>Quicksort♻️
         <ul>
         <li><a href="Sorting%20algorithms/iterative%20qsort.py">Iterative</a>
         <li><a href="Sorting%20algorithms/quick%20sort.py">Recursion</a>
@@ -16,13 +16,15 @@
     </ul>
 <li><i>Hybrid</i>
     <ul>
-    <li>Timsort
+    <li>Timsort♻️
     </ul>
 <li><i>Insertion sorts</i>
     <ul>
     <li><a href="Sorting%20algorithms/insertion%20sort.py">Insertion sort</a>
-    <li><a href="Sorting%20algorithms/shell%20sort.py">Shell sort</a>
+    <ul>
     <li><a href="Sorting%20algorithms/bin_insertion%20sort.py">Binary insertion sort</a>
+    </ul>
+    <li><a href="Sorting%20algorithms/shell%20sort.py">Shell sort</a>
     </ul>
     <li> <i>Merge sorts</i>
     <ul>
