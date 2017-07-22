@@ -4,7 +4,7 @@ import time
 N = 1000
 
 
-def std_counting_sort(x):
+def std_gnome_sort(x):
     i = 1
     while i < len(x):
         if not i or x[i - 1] <= x[i]:
@@ -15,7 +15,7 @@ def std_counting_sort(x):
     return x
 
 
-def opt_counting_sort(x):
+def opt_gnome_sort(x):
     i, j, size = 1, 2, len(x)
     while i < size:
         if x[i - 1] <= x[i]:
@@ -42,21 +42,21 @@ if __name__ == "__main__":
 
     print("\n...SORTING ARRAY...")
     st = time.time()
-    na = std_counting_sort(a)
+    na = std_gnome_sort(a)
     end = time.time()
     print(na == sorted(a))
     print("\nTIME:", (end - st), "  sec")
 
     print("\n...REVERSE ARRAY...")
     st = time.time()
-    nb = std_counting_sort(b)
+    nb = std_gnome_sort(b)
     end = time.time()
     print(nb == sorted(b))
     print("\nTIME:", (end - st), "  sec")
 
     print("\n...RANDOM ARRAY...")
     st = time.time()
-    nc = std_counting_sort(c)
+    nc = std_gnome_sort(c)
     end = time.time()
     print(nc == sorted(c))
     print("\nTIME:", (end - st), "  sec")
@@ -65,21 +65,21 @@ if __name__ == "__main__":
 
     print("\n...SORTING ARRAY...")
     st = time.time()
-    na = opt_counting_sort(a)
+    na = opt_gnome_sort(a)
     end = time.time()
     print(na == sorted(a))
     print("\nTIME:", (end - st), "  sec")
 
     print("\n...REVERSE ARRAY...")
     st = time.time()
-    nb = opt_counting_sort(b)
+    nb = opt_gnome_sort(b)
     end = time.time()
     print(nb == sorted(b))
     print("\nTIME:", (end - st), "  sec")
 
     print("\n...RANDOM ARRAY...")
     st = time.time()
-    nc = opt_counting_sort(c)
+    nc = opt_gnome_sort(c)
     end = time.time()
     print(nc == sorted(c))
     print("\nTIME:", (end - st), "  sec")
