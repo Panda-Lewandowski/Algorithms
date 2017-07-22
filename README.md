@@ -7,12 +7,14 @@
     <ul>
     <li><a href="Sorting%20algorithms/bubble%20sort.py">Bubble sort</a>
     <li><a href="Sorting%20algorithms/cocktail%20sort.py">Cocktail shaker sort or bidirectional bubble sort</a>
-    <li>Comb sort
+    <li><a href="Sorting%20algorithms/comb%20sort.py">Comb sort</a>
     <li>Quicksort♻️
         <ul>
         <li><a href="Sorting%20algorithms/iterative%20qsort.py">Iterative</a>
         <li><a href="Sorting%20algorithms/quick%20sort.py">Recursion</a>
         </ul>
+    <li>Odd–even sort♻️
+    <li><a href="Sorting%20algorithms/gnome%20sort.py">Gnome sort</a>
     </ul>
 <li><i>Hybrid</i>
     <ul>
@@ -25,15 +27,21 @@
     <li><a href="Sorting%20algorithms/bin_insertion%20sort.py">Binary insertion sort</a>
     </ul>
     <li><a href="Sorting%20algorithms/shell%20sort.py">Shell sort</a>
+    <li>Tree sort♻️
     </ul>
     <li> <i>Merge sorts</i>
     <ul>
-    <li>Merge sort
+    <li>Merge sort♻️
     </ul>
 <li><i>Selection sorts</i>
     <ul>
-    <li>Heapsort
+    <li>Heapsort♻️
     <li><a href="Sorting%20algorithms/selection%20sort.py">Selection sort</a>
+    </ul>
+<li><i>Distribution sorts</i> 
+    <ul>
+    <li><a href="Sorting%20algorithms/counting%20sort.py">Counting sort</a>
+    <li>Radix sort♻️
     </ul>
 </ul>
 
