@@ -196,7 +196,7 @@
         <ul>
         <li>Deterministic tests of primality
             <ul>
-            <li>Fermat primality test
+            <li><a href="Number%20theoretic%20algorithms/Primality%20tests/Fermat.py">Fermat primality test </a>
             <li>AKS primality test
             <li>Lucas primality test
             </ul>
