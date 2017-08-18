@@ -188,8 +188,8 @@
     <ul>
     <li>Finding prime numbers
         <ul>
-        <li>Trial division
-        <li>Sieve of Eratosthenes
+        <li><a href="Number%20theoretic%20algorithms/Finding%20prime%20numbers/Trial%20division.py">Trial division</a>
+        <li><a href="Number%20theoretic%20algorithms/Finding%20prime%20numbers/Sieve%20of%20Eratosthenes.py">Sieve of Eratosthenes</a>
         <li>Sieve of Atkin
         </ul>
     <li>Primality tests
